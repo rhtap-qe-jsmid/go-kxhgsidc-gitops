@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/jsmid/go-kxhgsidc:5d3bd7fbb2f9a6cb2667e50d9ba7c3c5ceb0ca26@sha256:6d60d97e8428f5a23ca9a57b49224a2b0d6d34c8401fda534dd6b7191604adad
+        - image: quay.io/jsmid/go-kxhgsidc:bc446e3db3a5dfa794bb978dd19abfa3d0ffab04@sha256:c2d33c365294d33dff7303ac2aa118ff44a824454f3c188433ab31c91626fe0c
           name: container-image
